@@ -1,7 +1,5 @@
 # Linear Algebra Toolbox
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 A Python library implementing common matrix decomposition techniques (LU, Cholesky, QR) for solving systems of linear equations. This project provides educational implementations and does *not* aim to replace highly optimized libraries like NumPy or SciPy for production use.
 
 ## Features
