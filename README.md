@@ -12,15 +12,3 @@ A Python library implementing common matrix decomposition techniques (LU, Choles
     *   `solve_cholesky_system(L, b)` - Solves `Ax = b` given the Cholesky decomposition.
     *   `solve_qr_system(Q, R, b)` - Solves `Ax = b` given the QR decomposition.
 
-## Installation
-
-This is a simple, self-contained library. You can either:
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/linear-algebra-toolbox.git
-    cd linear-algebra-toolbox
-    ```
-
-2.  **Copy the code:** Directly copy the Python code from `linear_algebra_toolbox.py` (or whatever you name the file) into your project.
